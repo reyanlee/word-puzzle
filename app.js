@@ -101,3 +101,6 @@ counter+= 5;
 // G. 10
 // H. 9
 // I. 8
+
+
+// Message: Turn off the lights

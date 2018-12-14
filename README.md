@@ -3,6 +3,7 @@
 Read through the problems in the app.js file and match each answer with the letter to find out what this 4 word phrase is. Unscramble the last two words on your own.
 
 ## _ _ _ _ | _ _ _ | HET | GTHSLI
+TURN | OFF | THE | LIGHTS
 
 ## Objective
 
